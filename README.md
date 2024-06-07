@@ -7,9 +7,9 @@ Glad you found your way here!
 <p>
   
 </p>
-  <div style="flex:1;">
-    <img width="40%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
-  </div>
+<p align="center">
+    <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sarayu-T&theme=nord&no-frame=false&no-bg=true&margin-w=4)
