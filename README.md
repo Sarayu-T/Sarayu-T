@@ -1,7 +1,7 @@
 <div style="display:flex; flex-direction:row;">
   <div style="flex:1; left: 0">
-    <h4 align="center"><samp>Hey there! Glad you found your way here!</samp></h4>
-    <p align="center">
+    <h4 ><samp>Hey there! Glad you found your way here!</samp></h4>
+    <p>
        I enjoy coding and learning about various aspects of computer science.From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn. 
     </p>
   </div>
