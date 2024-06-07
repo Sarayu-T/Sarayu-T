@@ -1,5 +1,5 @@
-Hey there! Glad you found your way here!
- <img height="14px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coffee.svg" />I enjoy coding and learning about various aspects of computer science. From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn. 
+Hey there! Glad you found your way here! <br>
+ <img height="20px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coffee.svg" />'''diff @@ I enjoy coding and learning about various aspects of computer science. From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn. @@ '''
   <div style="flex:1;">
     <img width="40%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
   </div>
