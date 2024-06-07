@@ -1,12 +1,12 @@
 <div style="display:flex; flex-direction:row;">
-  <div style="flex:1;">
+  <div style="flex:1; left: 0">
     <h4 align="center"><samp>Hey there! Glad you found your way here!</samp></h4>
     <p align="center">
        I enjoy coding and learning about various aspects of computer science.From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn. 
     </p>
   </div>
-  <div style="flex:1;">
-    <img  src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
+  <div style="flex:1; right:0">
+    <img width="40%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
   </div>
 </div>
 
