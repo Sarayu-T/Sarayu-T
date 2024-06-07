@@ -1,6 +1,6 @@
 <!-- Centered image -->
 <p align="center">
-  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/hey.svg" /> 
+  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/hey1.svg" /> 
 </p>
 
 <!-- Intro text -->
