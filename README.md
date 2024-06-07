@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
+  <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/coder.svg" />
 </p>
 
 
