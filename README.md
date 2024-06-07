@@ -1,9 +1,7 @@
 <h4 align="center"><samp> Hey there!  Glad you found your way here! </samp></h4>
 
 <p align="center">
-   <img   width="100%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" /> 
-    Your browser does not support SVG
-  </object>
+   <img   width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" /> 
 </p>
 
 <p align="center"><samp>
