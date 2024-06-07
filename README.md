@@ -6,7 +6,7 @@
     </p>
   </div>
   <div style="flex:1;">
-    <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
+    <img  src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
   </div>
 </div>
 
