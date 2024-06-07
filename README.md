@@ -1,8 +1,14 @@
-<h4 align="center"><samp> Hey there!  Glad you found your way here! </samp></h4>
-
-<p align="center">
-   <img   width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" /> 
-</p>
+<div style="display:flex; flex-direction:row;">
+  <div style="flex:1;">
+    <h4 align="center"><samp>Hey there! Glad you found your way here!</samp></h4>
+    <p align="center">
+       I enjoy coding and learning about various aspects of computer science.From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn. 
+    </p>
+  </div>
+  <div style="flex:1;">
+    <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coder.svg" />
+  </div>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sarayu-T&theme=nord&no-frame=false&no-bg=true&margin-w=4)
