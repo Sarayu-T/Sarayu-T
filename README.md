@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/hey.png" /> 
+  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/hey.png" /> 
 </p>
 
 
 <p align="center">
-  <img height="28px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/coffee.svg" />
+  <img height="28px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/coffee.svg" />
   <b>Glad you found your way here!</b>
 </p>
 <p align="center">
