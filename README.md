@@ -1,13 +1,13 @@
 
 
 <p align="center">
-  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/hey2.svg" /> 
+  <img height="140px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/hey2.svg" /> 
 </p>
 
 
 <p align="center">
   <img height="28px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/coffee.svg" />
-  <b>Glad you found your way here!</b>
+  <i>Glad you found your way here!</i>
 </p>
 <p align="center">
   <i>I enjoy coding and learning about various aspects of computer science. From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn.</i>
