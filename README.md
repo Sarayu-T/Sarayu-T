@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/purple.svg" /> 
+  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/hey2.svg" /> 
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/coder.svg" />
+  <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/purple.svg" />
 </p>
 
 
