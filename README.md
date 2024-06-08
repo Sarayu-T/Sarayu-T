@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/hey.svg" /> 
+  <img height="150px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/hey2.svg" /> 
 </p>
 
 
