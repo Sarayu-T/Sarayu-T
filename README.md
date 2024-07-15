@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center">
+<p align="center" justify-content="center">
   <img height="28px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/coffee.svg" />
   <h3>Glad you found your way here!</h3>
 </p>
