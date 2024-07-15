@@ -7,10 +7,10 @@
 
 <p align="center" justify-content="center">
   <img height="28px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/coffee.svg" />
-  <h3>Glad you found your way here!</h3>
+  <i>Glad you found your way here!</i>
 </p>
 <p align="center">
-  <h3>I enjoy coding and learning about various aspects of computer science. From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn.</h3>
+  <i>I enjoy coding and learning about various aspects of computer science. From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn.</i>
 </p>
 
 
