@@ -14,11 +14,13 @@
 <p align="center">
   <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/laptop.svg" />
 </p>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sarayu-T">
-</div>
-<div align= "right">
-<img src="https://github-profile-trophy.vercel.app/?username=Sarayu-T&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sarayu-T" alt="GitHub Stats">
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Sarayu-T&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  </div>
 </div>
 
 <h2 align="center">Views</h2>
