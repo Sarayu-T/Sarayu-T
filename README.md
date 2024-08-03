@@ -15,11 +15,17 @@
   <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/laptop.svg" />
 </p>
 
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=Sarayu-T&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-  </div>
+ # 📊GitHub Stats :# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Sarayu-T&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sarayu-T&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarayu-T&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Sarayu-T&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://github-readme-stats.vercel.app/api?username=Sarayu-T&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sarayu-T&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarayu-T&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center">Views</h2>
 <p align="center">
