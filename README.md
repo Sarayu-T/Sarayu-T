@@ -1,19 +1,4 @@
-<p align="center">
-  <img height="140px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/hey2.svg" /> 
-</p>
 
-<p align="center">
-  <img height="28px" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/coffee.svg" />
-  <i style="display: inline;">Glad you found your way here!</i>
-</p>
-
-<p align="center">
-  <i>I enjoy coding and learning about various aspects of computer science. From training models to understanding decentralized systems and crafting web applications, I approach each challenge with curiosity and a genuine desire to learn.</i>
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github.com/Sarayu-T/Sarayu-T/blob/main/assets/laptop.svg" />
-</p>
 
  # 📊GitHub Stats :# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Sarayu-T&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
